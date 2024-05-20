@@ -1,0 +1,12 @@
+{
+    "driving_license": {
+        "license_number": "DL-123456",
+        "full_name": "Ankit Kumar",
+        "date_of_birth": "01-01-2001",
+        "address": "H2-102, IIIT Delhi Hostel",
+        "issue_date": "15-04-2024",
+        "expiry_date": "29-02-2025",
+        "categories": ["A", "B"],
+        "restrictions": ["Glasses"]
+    }
+}
